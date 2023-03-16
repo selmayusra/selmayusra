@@ -4,7 +4,7 @@
 - I am [selma yusra](https://https://www.linkedin.com/in/selma-yusra-631315259/?originalSubdomain=tr).
 
 - Brief intro about me:
-  * I am math teacher and added `Cloud Engineer` and `DevOps Engineering`
+  * I am Math Teacher and added `Cloud Engineer` and `DevOps Engineering`
   * I love automation, coding, problem-solving and learning new skills and implement them to solve different challenges.
   
   <h2>💾 Notable Repositories</h2>
